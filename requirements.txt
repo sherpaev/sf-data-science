@@ -1,1 +1,6 @@
 numpy
+autopep8
+pandas
+matplotlib
+seaborn
+scipy
